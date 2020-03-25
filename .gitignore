@@ -1,0 +1,109 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# models and data
+data_old/**
+models_old/**
+debug_data/**
+debug_models/**
+models/**/*
+models/checkpoints/**/*
+models/trained/**/*
+models/logs/**/*
+data/persist/**/*
+data/persist*/**/*
+test_data*/**/*
+data/persist_temp/**/*
+data/analysis_baseline_scores/**
+
+# checkpoints
+**/.ipynb_checkpoints/**/*
+
+# mlflow
+mlruns/**
+**/mlruns/**
+
+# xmodels
+xmodels/**
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/**
+
+# Sensitive or high-churn files:
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+./idea/sonarlint/**
+
+#GA/.ideasonarlint/**
+**/.idea/sonarlint/**
+
+#python
+**/*.pyc
+**/__pycache__/**
+**/*.pickle
+**/*.pkl
+**/*.h5
+**/*.h5.gzip
+**/*.h5.gz
+**/*.csv
+**/*.db
+
+##venv
+**/venv/**
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+# Mongo Explorer plugin:
+.idea/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+**/workspace.xml
+*.jar
+*.war
+*.ear
+**/.DS_Store
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#Python package files
+**/__pycache__
+**/*.pyc
+
+# Sublime
+**/*sublime-project
+**/*sublime-workspace
