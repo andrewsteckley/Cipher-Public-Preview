@@ -8,7 +8,4 @@ The project includes a multi-level system of models and tools for systematically
 
 Given my progress and the desire to compile the entire effort into a publication, I am not ready to make the project public.
 
-![text image](images/Z340_image.jpeg)
-
-![text image](images/image2.png)
-
+![text image](images/Z340_image.jpeg)    ![text image](images/image2.png)
