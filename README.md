@@ -64,7 +64,7 @@ The second is illustrative of the cipher that took the longest for the solver to
 
 ![text image](images/2020_06_11_e.png) 
 
-###Update on Status of Research:
+### Update on Status of Research:
 
 
 By late 2020, this solver system was looking extremely promising. What remained was to analyze its performance with ciphers of increasing homophonicity, and then extrapolate to determine the amount of generated training data and computing resources that would be statistically required to ensure success with the actual Zodiac Cipher.
