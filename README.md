@@ -60,7 +60,7 @@ Below are two examples showing the power of the solver. the first shows a typica
 
 The second is illustrative of the cipher that took the longest for the solver to solve to 100% clarity. This one took roughly 45 iteration steps (and about 30 seconds on a laptop).
 
-![text image](images/2020_06_11_c.png) 
+![text image](images/2020_06_11_c.png)
 
 ![text image](images/2020_06_11_e.png) 
 
